@@ -28,7 +28,7 @@ const HeroSection = (): JSX.Element => {
 						/>
 					</h1>{" "}
 					<p className="text-gray-800 dark:text-gray-300 text-base sm:text-lg mb-6 lg:text-xl">
-						Hi, I&apos;m Ayman Badouzi, a 21-year-old Fullstack Web
+						Hi, I&apos;m Ayman Badouzi, a 22-year-old Full-Stack Web
 						Developer from Morocco. Let&apos;s build amazing web
 						experiences together!
 					</p>
