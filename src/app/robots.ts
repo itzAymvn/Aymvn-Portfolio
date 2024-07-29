@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
 			userAgent: "*",
 			allow: "/",
 		},
-		sitemap: "https://aymvn.tech/sitemap.xml",
+		sitemap: "https://aymvn.netlify.app/sitemap.xml",
 	}
 }
