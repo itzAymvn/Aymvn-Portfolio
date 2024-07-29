@@ -1,3 +1,4 @@
 # Redirects from what the browser requests to what we serve
-/contact             /#contact
-/norage              https://xayman.net/norage
+
+/contact /#contact
+/norage https://nr.xayman.net/
