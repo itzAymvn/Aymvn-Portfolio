@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 		default: "Aymvn - Web Developer",
 	},
 	description:
-		"Explore Aymvn's portfolio website. Ayman is a passionate 21-year-old fullstack web developer from Morocco, specializing in creating dynamic and user-friendly web applications. Discover his projects and skills in web development. Contact Ayman for inquiries.",
+		"Explore Aymvn's portfolio website. Ayman is a passionate 22-year-old fullstack web developer from Morocco, specializing in creating dynamic and user-friendly web applications. Discover his projects and skills in web development. Contact Ayman for inquiries.",
 	keywords: [
 		"Ayman Badouzi",
 		"Aymvn Developer",
@@ -66,16 +66,16 @@ export const metadata: Metadata = {
 		"Innovative Solutions",
 		"Collaborative Teamwork",
 	],
-	metadataBase: new URL("https://aymvn.tech/"),
+	metadataBase: new URL("https://aymvn.netlify.app/"),
 	openGraph: {
 		title: "Aymvn - Fullstack Web Developer",
 		description:
 			"Explore Aymvn's portfolio website. Ayman is a passionate 21-year-old fullstack web developer from Morocco, specializing in creating dynamic and user-friendly web applications. Discover his projects and skills in web development.",
 		type: "website",
-		url: "https://aymvn.tech/",
+		url: "https://aymvn.netlify.app/",
 		images: [
 			{
-				url: "https://aymvn.tech/images/og.png",
+				url: "https://aymvn.netlify.app/images/og.png",
 				width: 1200,
 				height: 630,
 				alt: "Aymvn - Fullstack Web Developer",
@@ -86,7 +86,7 @@ export const metadata: Metadata = {
 	authors: [
 		{
 			name: "Ayman Badouzi",
-			url: "https://aymvn.tech/",
+			url: "https://aymvn.netlify.app/",
 		},
 	],
 }
