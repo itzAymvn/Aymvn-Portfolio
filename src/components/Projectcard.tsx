@@ -54,10 +54,7 @@ const ProjectCard = ({ project }: { project: Project }): JSX.Element => {
 					className="dark:text-gray-300 text-gray-700"
 				>
 					{project.description?.substring(0, 100)}...{" "}
-					<Link
-						href={"/projects/" + project.title.toLowerCase()}
-						className="text-purple-500"
-					>
+					<Link href={project.gitUrl} className="text-purple-500">
 						learn more
 					</Link>
 				</p>
