@@ -1,7 +1,6 @@
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import "./globals.css"
-import { Analytics } from "@vercel/analytics/react"
 import { Providers } from "./providers"
 import NavBar from "@/components/Navbar"
 
@@ -103,7 +102,6 @@ export default function RootLayout({
 					<NavBar />
 					{children}
 				</Providers>
-				<Analytics />
 			</body>
 		</html>
 	)
