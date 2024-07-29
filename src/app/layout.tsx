@@ -88,6 +88,7 @@ export const metadata: Metadata = {
 			url: "https://aymvn.netlify.app/",
 		},
 	],
+	verification: { google: "bhbsjgIT5O1yx-sYXonHHqBZL0yFS95h2UGU8oeO9D4" },
 }
 
 export default function RootLayout({
