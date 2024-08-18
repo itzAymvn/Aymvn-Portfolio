@@ -22,3 +22,5 @@ export default async function Home(): Promise<JSX.Element> {
 		</main>
 	)
 }
+
+export const revalidate = 30
