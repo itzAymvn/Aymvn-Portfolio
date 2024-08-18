@@ -23,6 +23,11 @@ const nextConfig = {
 				destination: "/#contact",
 				permanent: true,
 			},
+			{
+				source: "/sanity",
+				destination: "https://aymvn.sanity.studio",
+				permanent: true,
+			},
 		]
 	},
 }
