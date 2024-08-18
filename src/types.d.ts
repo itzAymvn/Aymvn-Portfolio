@@ -5,5 +5,5 @@ export interface Project {
 	image: any
 	tags: string[]
 	github: string
-	url: string
+	link: string
 }

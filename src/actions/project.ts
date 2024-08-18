@@ -13,7 +13,7 @@ export async function getProjects(): Promise<Project[] | null> {
                 image,
                 tags,
                 github,
-                url
+                link
             }`
 		)
 		return projects || null
